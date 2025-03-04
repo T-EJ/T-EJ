@@ -1,5 +1,16 @@
 # 💫 About Me:
-Hi! 👋 I'm Tej Mandaliya!<br><br>⭐ About Me<br>🔹DevOps Engineer  AWS, CI/CD, Kubernetes, and automation to build scalable and efficient systems. 🚀<br>🔹Real-time monitoring for scalable and resilient systems. 🚀<br><br><br><br><br><br><br>
+Hi! 👋 I'm Tej Mandaliya!  
+
+⭐ **About Me**  
+🔹 DevOps Engineer | AWS, CI/CD, Kubernetes, and automation to build scalable and efficient systems. 🚀  
+🔹 Real-time monitoring for scalable and resilient systems. 🚀  
+
+⭐ **What I Do:**  
+🔹 Architecting **AWS Cloud** solutions for high availability and performance.  
+🔹 Crafting seamless **CI/CD pipelines** to accelerate deployments.  
+🔹 **Kubernetes wizardry**—containerizing and orchestrating workloads like magic. ✨  
+🔹 Mastering **real-time monitoring & observability** to keep systems resilient.  
+🔹 Automating the **mundane**, so engineers can focus on the extraordinary! ⚡
 
 
 ## 🌐 Socials:
